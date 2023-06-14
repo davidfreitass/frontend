@@ -1,0 +1,29 @@
+.body {
+    background-color: black;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}
+
+.imagem {
+    max-width: 800px;
+}
+
+.titulo {
+    color: black;
+    font-family: verdana;
+    background-color: red;
+    padding: 20px;
+}
+
+.conteudo {
+    color: white;
+    font-family: calibri;
+    margin: 30px;
+}
+
+.legenda {
+    color: white;
+    font-size: small;
+    font-style: italic;
+}
